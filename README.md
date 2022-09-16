@@ -13,6 +13,16 @@
 This week’s challenge is to systematically explore strategies that help generate prompts for LLMs to extract relevant entities from job descriptions and also to classify web pages given only a few examples of human scores. You will be also required to compare responses and accuracies of multiple LLM models for given prompts.
 
 ## Objectives
+- Understand the algorithms and techniques that goes into building large language models
+- Design a pipeline that takes a news item (e.g. title + description + body) or a job description and returns a score for the news item and list of entities (and potentially their relationship) for the job description according to stored examples. Consider the following while designing your pipeline
+      - Think about in what format you want to receive the news item to be processed
+      - Think about how to select the best samples for the given news item
+      - Think about how to pre-process the incoming item as well as the pre-defined samples
+      - Think about how to compose a prompt that gives the best result for the given item
+      - Think about the post-processing step you need to do to increase the accuracy as well as return in the format required
+- Write a flask or fastapi backend. The API should have at least two endpoints
+        /bnewscore - for scoring breaking news that may lead to public unrest
+        /jdentities - for extracting entities from job description
 
 
 ## Data
