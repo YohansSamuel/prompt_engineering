@@ -1,0 +1,143 @@
+Bachelor's degree in Mechanical Engineering or Physical Science 3+ years track record of developing or specifying fiber optic cables and connector related products Knowledge of fiber optic component, cabling, and interconnect products, technologies, and standards Experience in statistical data analysis Experience with product life cycle management (PLM) process Experience providing solutions to problems and meeting deadlines Experience engaging stakeholders PREFERRED Advanced degree Experience using a software tool for statistical data analysis such as JMP Experience using Agile as product life-cycle management tool Data center or other mission critical development experience
+
+Extracted Text:
+DIPLOMA:Bachelor
+DIPLOMA_MAJOR:Mechanical Engineering,Physical Science
+EXPERIENCE:3+ years
+SKILLS:developing,fiber optic cables,connector related products
+----
+10+ years of software engineering work experience. Technical experience in release automation engineering, CI/CD or related roles. Experience building and leading a software organization through product design, delivery and commercialization of consumer electronics devices. Experience recruiting and managing technical teams, including performance management. BS/MS in Computer Science. Experience in leading timeline, multi-partner initiatives. Organizational communication and coordination experience. PREFERRED 5+ years of experience with hands-on technical management, release engineering, tools engineering, DevOps, or related area.
+
+Extracted Text:
+EXPERIENCE:10+ years,5+ years
+SKILLS:software engineering,technical management,release engineering,tools engineering,DevOps
+DIPLOMA:BS/MS
+DIPLOMA_MAJOR:Computer Science
+----
+3+ years Swift & Objective-C and experience with iOS internals Experience building an entire app from scratch and ideally a portfolio of apps featured in the App Store Someone who knows every trick in the book on UI transitions, network communication and memory/battery efficiency Strong UI/design skill experience is a plus
+
+Extracted Text:
+EXPERIENCE:3+ years
+SKILLS:Swift & Objective-C
+----
+8+ years experience in software engineering leadership 5+ years people management experience including managing leaders and managing remotely across regions Strategic thinker with proven track record of transforming operations to provide customer experience through innovation and improvement Track record of working with VP, C-level Executives Experience deploying operational support models across enterprise organizations Communication/presentations experience Experience working with all levels of management internally and externally Experience meeting objectives in an entrepreneurial environment Collaboration and relationship-building experience BA/BS degree or higher
+
+Extracted Text:
+EXPERIENCE:8+ years,5+ years
+SKILLS:software engineering,people management,managing leaders
+----
+BS degree in Computer Science or related field. 7+ years C++ experience, including C++11 features and principles. 5+ years experience creating software for real-time environments such as games or robotics. 2+ years experience managing software engineers. Proven track record of software development, including shipping one or more products on large code bases that span platforms and tools. Problem solving and optimization experience. Communication experience and demonstrated experience working across disciplines and teams to drive solutions. PREFERRED Hands-on experience with 3D computer vision algorithms including Calibration, SLAM, Reconstruction, Mapping, Localization, Sensor Fusion, State Estimation and Image Processing Experience with designing (products or open-source/git software) of inertial/optical sensing devices Publication in leading workshops or conferences such as CVPR, ECCV, ICCV, SIGGRAPH, ICCP, RSS, ICRA, etc.
+
+Extracted Text:
+DIPLOMA:BS
+DIPLOMA_MAJOR:Computer Science
+EXPERIENCE:7+ years,5+ years,2+ years
+SKILLS:C++,C++11,creating software for real-time environments,games,robotics,managing software engineers
+----
+8+ years of development experience with Python and Go or C++ Experience with SDN (e.g. OpenFlow, VPP, Open vSwitch) A proven track record of performing on a winning team with a demonstration of bringing products and services to market. A proven track record of system software development. A proven track record of developing software for extremely large scale, distributed environments. A deep understanding of complex system integration and methodologies for proving the correct operation under nominal and faulted conditions of a hyperscale cloud environment. A deep understanding of developing for high availability and its inherent problems. A deep understanding of containers and container clusters such as kubernetes. A deep understanding of virtual machine environment including VMware, KVM, or Xen. Understanding of Open Systems Interconnection Reference Model (OSI-RM), the TCP/IP stack, and development experience in L2, L3, L4. Preferred Tech and Prof Experience Familiarity with networking protocols which might include: BGP, DHCP, DNS, OSPF, IGMP, IPv4/IPv6, IS-IS, and others. Familiarity with Network function virtualization (NFV) functionality and network encapsulation including L4 Load Balancers, Firewalls, etc. Working knowledge of git and CICD tools such as Jenkins and Zuul. EO Statement IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. .
+
+Extracted Text:
+EXPERIENCE:8+ years
+SKILLS:development,Python,C++
+----
+Strong problem solving and analytical skills in the areas of Linux OS, packaged software, middleware and Cloud virtualization enviornments Strong SW skills with good working knowledge of Cloud, server virtualization hypervisor technology, storage SAN/fabric and network topologies Strong software engineering skills and experience in the areas Python, Java, PySpark, Bash, KShell, SQL database, noSQL database, syslog device data Strong working knowledge of all processor, memory, storage and network statistics analytics and measurement techniques Experience in working with Elastic, which will be used as the spurce of the logs and metrics data for the performance analysis Knowledge of Dynatrace and other application monitoring tools and their API interfaces Must have 2+ years in performance modeling and analysis of IT infrastructure environments that require high availability and high user access concurrency Preferred Tech and Prof Experience Outstanding written and verbal communications - Excellent collaboration skills Proficiency in computer/SoC architecture and performance trade-offs Knowledge and experience with simulators and performance monitoring debugging frameworks/tools Ability to conduct experiments in all phases of design, gathering and analyzing data; and utilize scripting/spread sheet to document and present the results BS / MS in EE/CS is ; 5 Years of related experience EO Statement IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. .
+
+Extracted Text:
+EXPERIENCE:2+ years
+SKILLS:performance modeling,IT infrastructure,access concurrency
+DIPLOMA:BS / MS
+DIPLOMA_MAJOR:EE,CS
+----
+Experience in backend services, systems, and data infrastructure. BS/MS in Computer Science or a related technical field. 5+ years of work experience architecting, developing, and shipping software products and/or services. 4+ years of experience managing cross-functional engineering teams.
+
+Extracted Text:
+DIPLOMA:BS/MS
+DIPLOMA_MAJOR:Computer Science
+EXPERIENCE:5+ years,4+ years
+SKILLS:architecting,developing,managing cross-functional engineering teams
+----
+experience: 5 + years of full-stack software development experience to include 5+ years of C# (or similar) experience with the ability to contribute to technical architecture across web, mobile, middle tier, data pipeline and storage components. 5 + years of experience delivering scalable and resilient services at large enterprise scale, including experience in data platforms including large-scale analytics on relational, structured and unstructured data. 3+ years of experience as a SWE lead in an agile environment including 1+ years of experience operating in a DevOps model. 2+ years of experience designing secure, scalable and cost-efficient PaaS services on the Microsoft Azure (or similar) platform. Desired attributes: People management experience, in addition to multiple years of experience mentoring early in career talent. Project Dev Lead experience in an agile environment. Partners with Product Owner and Scrum Master to optimize implementation of agile practices. Experience with microservices, serverless architectures, Azure IoT suite, and the Azure event grid. Passion for innovation and a vision for how technology can add ambient intelligence to the workplace. Can articulate the opportunity and challenges of enterprise IoT, from devices to big data Experience shaping a DevOps culture with a vision for building and nurturing an innovative culture while maintaining a Live Site focus. Capability to work independently on the most complex code contributions of a feature. Experience with applying data science and machine learning to unlock new capabilities. Passion for mentoring early in career engineering talent. Expertise in latest web client technology frameworks (e.g., Angular, React, etc.). Deep customer empathy and vision for innovative productivity scenarios Track record as someone who can solve the tough technical challenges If you possess the above, and are a strong perpetuator of an action-oriented and fun work culture this might be the role for you! #CSEO #EUSEJOBS
+
+Extracted Text:
+EXPERIENCE:5 + years,5+ years,5 + years,3+ years,1+ years,2+ years
+SKILLS:full-stack software development,C#,delivering scalable and resilient services,data platforms,large-scale analytics,SWE lead,DevOps,designing
+----
+BS in Electrical Engineering or Computer Engineering, or related Engineering Degree, with 3+ years of industry experience. 3+ years of experience with PCB design with both integrated and discrete circuits, and high-speed interfaces. Experience with development and bring-up of data center or Enterprise infrastructure system equipment. Experience with analyzing and resolving system hardware issues. PREFERRED MS in electrical engineering or computer engineering. 5+ years of industry experience. Familiar with storage server architectures with HDD. Experience with end-to-end enabling, design, and deployment cycle of a product. Experience with working with thermal, mechanical, management firmware, system firmware, and software teams during product development. Experience with design and troubleshooting data buses used in server such as PCIe, SAS, SATA, I2C. Experience with industry standard EDA tools for developing PCB designs. Knowledge of using Linux for testing.
+
+Extracted Text:
+DIPLOMA:BS,MS
+DIPLOMA_MAJOR:Electrical Engineering,Computer Engineering,Engineering,electrical engineering,computer engineering
+EXPERIENCE:3+ years,3+ years,5+ years
+SKILLS:industry,PCB design,integrated,discrete circuits,industry experience
+----
+Basic : Programming experience in C#, Java, or C++ BS in Computer Science, Computer Engineering, or a related field Preferred : Involvement in designing, implementing and shipping complex enterprise software products/services Familiarity with highly scalable distributed micro services handling thousands of requests per second Strong hands-on ability to write secure, reliable & maintainable code and to test & debug it Involvement in building large-scale services on cloud platforms such as Azure or AWS Excellent communication skills, including ability to write concise technical docs and present ideas A passion for software design with a talent for independently solving complex technical problems Passion for improving software quality, performance and reliability and engineering excellence Knowledge of modern engineering practices like automated deployments with integrated quality gates and experience working with modern version control systems like Git Experience with multithreading and asynchronous processing Deep knowledge and experience with object oriented design Experience with pair programming Experience with databases (SQL or noSQL) a plus Web Application development experience a plus Hands on experience with configuration and/or controlled experimentation a plus Experience with multimedia and networking is a plus Experience with multi-platform support is a plus (Windows, Mac, iOS, Android, Linux) Experience with data analysis and machine learning is a plus These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter. walid
+
+Extracted Text:
+DIPLOMA:BS
+DIPLOMA_MAJOR:Computer Science,Computer Engineering
+----
+Bachelor's Degree in Computing Science or a related subject Java experience Unix experience English: Fluent Preferred Tech and Prof Experience N/A EO Statement IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. .
+
+Extracted Text:
+DIPLOMA:Bachelor
+DIPLOMA_MAJOR:Computing Science
+----
+1+ years development experience on Java stack AppConnect / API's experience is added advantage. Compute, Network and Storage Monitoring Tools (Ex: Netcool) Application Performance Tools (IBM APM) Cloud operations and Automation Tools (VmWare, ICAM, ...) Proven Record of developing enterprise class products and applications. Preferred Tech and Prof Experience None EO Statement IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. .
+
+Extracted Text:
+EXPERIENCE:1+ years
+SKILLS:development,Java stack,AppConnect,API
+----
+5+ years of software engineering work experience, including hands-on technical management 5+ years coding in one of the following languages: C++, Java, and/or PHP Demonstrated ability to recruit and manage technical teams, including performance management BA/BS in Computer Science (In lieu of degree, 4+ years relevant work experience)
+
+Extracted Text:
+EXPERIENCE:5+ years,5+ years,4+ years
+DIPLOMA_MAJOR:software engineering,Computer Science
+SKILLS:technical management,coding,C++,Java,PHP,relevant work experience)
+DIPLOMA:BA/BS
+----
+Experience being technical, hands-on and a people manager for technical teams Experience leading, technically-challenging, cross-functional infrastructure projects from conception to end Experience with Unix internals (especially FreeBSD and Linux) Experience with multi-node cluster handling live traffic Knowledge of TCP/IP, experience with network programming Experience building and scaling distributed available systems 8+ years of work experience in software engineering, including 3+ years of proven hands-on technical management experience of software engineers BS/MS in Computer Science (In lieu of degree, work experience)
+
+Extracted Text:
+EXPERIENCE:8+ years,3+ years
+SKILLS:software engineering,technical management,software engineers
+DIPLOMA:BS/MS
+DIPLOMA_MAJOR:Computer Science
+----
+Basic : A BS/MS in Computer Science or related field Preferred : 5+ years of programming experience writing code in Java, C++, C#, or C or other object-oriented programming language Experience developing and testing computer software and/or online services Strong coding, debugging and problem-solving skills Strong knowledge of object-oriented programming language paradigms Great communication skills to collaborate cross-group and work effectively within the team Expertise in web or mobile application development Expertise in relational databases, distributed systems and/or big data technologies Experience in developing large scale services Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+Extracted Text:
+DIPLOMA:BS/MS
+DIPLOMA_MAJOR:Computer Science
+EXPERIENCE:5+ years
+SKILLS:programming,code,Java,C++,C#,C,object-oriented programming
+----
+Skills & : Exceptional management skills, with a proven ability to develop collaborative teams of exceptional engineers Knowledge of the Web UX industry today Expert understanding of web services and site technologies (for example, REST APIs , HTML, CSS, JavaScript, JSON etc.) Experience with newer technologies like AngularJS, Cordova, and ReactJS a plus Experience with scrum, Kanban, or other agile engineering techniques Experience Required: BA/BS degree in CS, related discipline or equivalent work experience 3 or more years of engineering management experience 4 or more years of Web UX design and coding experience in high scale services 7 or more years of general design and coding experience (C++, C#, and/or Java) //epicMEE Come join us and help shape how we do amazing customer experiences on the web!
+
+Extracted Text:
+DIPLOMA:BA/BS degree
+DIPLOMA_MAJOR:CS
+EXPERIENCE:3 or more years,7 or more years,4 or more years
+SKILLS:engineering management,design,coding,C++,C#,Java,Web UX design,coding
+----
+include: Bachelor of Mechanical Engineering or equivalent. At least 5 years of HW engineering experience. Excellent communication, teamwork, documentation and organizational skills. Great attitude and self-motivation. Systematic and conceptual thinking. Proficiency with Mechanical design tool, like CREO or other. Comfortable in a lab environment using test and measurement equipment to characterize and analyze designs. Proficiency with board and system level design, analysis, verification, and documentation. Proficiency with Statistical analysis methods and tools such as JMP, preferred. Experience delivering solutions for high-mix high-volume production, preferred. Ability to troubleshoot to root cause and solve complex problems. SPC and six sigma methodologies.
+
+Extracted Text:
+DIPLOMA:Bachelor
+DIPLOMA_MAJOR:Mechanical Engineering,HW engineering
+EXPERIENCE:5 years
+----
+A successful member of our team will have: 5 + years of industry experience developing and implementing tools and applications at scale. BS/MS in Computer Science or equivalent industry experience. Demonstrated CS fundamentals with a deep appreciation for the differences between platforms and environments. Demonstrated technical design, problem solving and debugging skills. Unwavering passion to understand and simplify the developer experience. Fantastic communication skills. A track record of working collaboratively to understand customer needs and create solutions that positively impact our customers.
+
+Extracted Text:
+EXPERIENCE:5 + years
+SKILLS:industry,developing and implementing tools
+DIPLOMA:BS/MS
+DIPLOMA_MAJOR:Computer Science
+----
+BA/BS degree 7+ years experience in brand and/or product marketing in the consumer technology sector Experience managing the marketing communications process from research and insight to execution and optimization in-market Experience driving initiatives at both a strategic and executional level Quantitative analytical experience Demonstrated experience communicating concepts Experience with consumer hardware PREFERRED MBA Experience and exposure to AR/VR/Smart Home market dynamics and realities, the competitive landscape, and technology trends across mobile apps, augmented reality, virtual reality, artificial intelligence, and more Experience launching category-redefining consumer hardware products Experience with Gaming Startup experience Passionate about technology, internet and connectivity trends Experience with traditional, mass media campaign development, like television and out of home, to drive brand awareness and customer adoption Sees ambiguity as opportunity Enjoys working closely many cross-functional teams Comfort in a fast-paced entrepreneurial environment
+
+Extracted Text:
+EXPERIENCE:7+ years
+SKILLS:brand,product marketing
+----
