@@ -15,18 +15,18 @@ This week’s challenge is to systematically explore strategies that help genera
 ## Objectives
 - Understand the algorithms and techniques that goes into building large language models
 - Design a pipeline that takes a news item (e.g. title + description + body) or a job description and returns a score for the news item and list of entities (and potentially their relationship) for the job description according to stored examples. Consider the following while designing your pipeline
-      - Think about in what format you want to receive the news item to be processed
-      - Think about how to select the best samples for the given news item
-      - Think about how to pre-process the incoming item as well as the pre-defined samples
-      - Think about how to compose a prompt that gives the best result for the given item
-      - Think about the post-processing step you need to do to increase the accuracy as well as return in the format required
+  * Think about in what format you want to receive the news item to be processed
+  * Think about how to select the best samples for the given news item
+  * Think about how to pre-process the incoming item as well as the pre-defined samples
+  * Think about how to compose a prompt that gives the best result for the given item
+  * Think about the post-processing step you need to do to increase the accuracy as well as return in the format required
 - Write a flask or fastapi backend. The API should have at least two endpoints
         /bnewscore - for scoring breaking news that may lead to public unrest
         /jdentities - for extracting entities from job description
 
 
 ## Data
-The data used for this project could be foun in [here](https://docs.google.com/spreadsheets/d/19N_K6SnIm0FylD2TBs-5y3WeSgdveb3J/edit?usp=sharing&ouid=108085860825615283789&rtpof=true&sd=true) ,[development and traing ](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_dev.txt) and [testing and final reporting](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_test.txt).
+The 1st dataset used for this project could be found in [here](https://docs.google.com/spreadsheets/d/19N_K6SnIm0FylD2TBs-5y3WeSgdveb3J/edit?usp=sharing&ouid=108085860825615283789&rtpof=true&sd=true) , and the 2nd dataset[development and traing ](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_dev.txt) and [testing and final reporting](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_test.txt).
 
 ## Repository overview
  Structure of the repository:
