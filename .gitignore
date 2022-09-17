@@ -3,3 +3,4 @@ venvprompteng
 scripts/__pycache__/data_loader.cpython-310.pyc
 notebooks/job_description_entity_extraction copy.ipynb
 notebooks/job_description_EE.ipynb
+scripts/__pycache__/logger.cpython-310.pyc
