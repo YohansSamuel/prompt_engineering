@@ -17,3 +17,18 @@ class Preporcess:
         for k, v in entities.items():
             label += k+':'+v+"\n"
         return label
+
+    def preprocess_document(self,train_df:pd.DataFrame):
+
+        train_doc = []
+        for i in range(train_df.shape[0]):
+            ent = train_df.label.iloc[i]
+            docu = train_df.document.iloc[i].replace("\n", " ")
+            if len(ent) != 0:
+                train_doc.append(docu+"\n\nExtracted Text:" +'\n'+ent+"----\n")
+
+        with open('../data/training_prompt.txt', 'w') as f:
+            for item in train_doc:
+                # write each item on a new line
+                f.write("%s\n" % item.strip())
+        return train_doc
