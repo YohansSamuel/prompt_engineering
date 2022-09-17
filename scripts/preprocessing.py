@@ -1,4 +1,3 @@
-from html import entities
 import pandas as pd
 
 class Preporcess:
@@ -32,3 +31,7 @@ class Preporcess:
                 # write each item on a new line
                 f.write("%s\n" % item.strip())
         return train_doc
+
+    def entity_extraction(self,test_df:pd.DataFrame):
+        test_doc = test_df.document.apply(lambda x: x.replace("\n", " ")+'\n\nExtracted Text:').to_list()
+        return test_doc
