@@ -18,18 +18,18 @@ class TextGenerator():
 
         return(extraction.generations[0].text[:-1])
 
-    def generate_score(self, prompt):
+    def generate_score(self, example):
         self.response = self.co.generate(
         model='xlarge',
-        prompt=prompt,
+        prompt=self.prepare_prompt(example),
         max_tokens=50,
         temperature=0.9,
         k=0,
         p=0.75,
         frequency_penalty=0,
         presence_penalty=0,
-        stop_sequences=["---"],
+        stop_sequences=["----"],
         return_likelihoods='NONE')
 
     def predict_score(self):
-        return self.response.generations[0].text
+        return self.response.generations[0].text[:-1]
