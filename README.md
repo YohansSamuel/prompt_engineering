@@ -26,7 +26,7 @@ This week’s challenge is to systematically explore strategies that help genera
 
 
 ## Data
-The 1st dataset used for this project could be found in [here](https://docs.google.com/spreadsheets/d/19N_K6SnIm0FylD2TBs-5y3WeSgdveb3J/edit?usp=sharing&ouid=108085860825615283789&rtpof=true&sd=true) , and the 2nd dataset[development and traing ](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_dev.txt) and [testing and final reporting](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_test.txt).
+The 1st dataset used for this project could be found in [here](https://docs.google.com/spreadsheets/d/19N_K6SnIm0FylD2TBs-5y3WeSgdveb3J/edit?usp=sharing&ouid=108085860825615283789&rtpof=true&sd=true) , and the 2nd dataset [development and traing ](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_dev.txt) and [testing and final reporting](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_test.txt).
 
 ## Repository overview
  Structure of the repository:
